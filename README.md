@@ -22,7 +22,7 @@ I am a Frontend Developer.
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:teleshev1998@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=#c71610" alt="Gmail Badge"/>
+      <img src="https://img.shields.io/badge/gmail-lightgrey?style=for-the-badge&logo=gmail&logoColor=#c71610" alt="Gmail Badge"/>
     </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=QbicR&style=flat-square&color=blue" alt=""/>
