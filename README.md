@@ -1,3 +1,15 @@
+### :man_technologist: About Me :
+I am a Frontend Developer.
+- :zap: I've been doing front-end development for about a year.
+
+- :zap: Learning new things.
+
+- :zap: Looking for a job.
+
+- :mailbox: Сontact with me: [![TG Badge](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/QbicR)
+
+---
+
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47gjyw3h71brju4vot1hkk5ggke2yyxs26wtzwa2pi&rid=giphy.gif&ct=g" width="100"/>
   <div id="badges">
@@ -15,19 +27,6 @@
 </div>
 
 ---
-
-### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
----
-
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -51,21 +50,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=QbicR&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QbicR&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-<!--
-**QbicR/QbicR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
