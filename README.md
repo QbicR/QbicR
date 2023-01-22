@@ -18,14 +18,14 @@ I am a Frontend Developer.
     <a href="https://t.me/QbicR" target="_blank">
       <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="TG Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/dmitry-teleshev-4a1425249/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
     <a href="mailto:teleshev1998@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/gmail-lightgrey?style=for-the-badge&logo=gmail&logoColor=#c71610" alt="Gmail Badge"/>
     </a>
+    <a href="https://www.linkedin.com/in/dmitry-teleshev-4a1425249/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=QbicR&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=QbicR&style=for-the-badge&color=blue" alt=""/>
 </div>
 
 ---
@@ -49,6 +49,5 @@ I am a Frontend Developer.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=QbicR&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QbicR&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
