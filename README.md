@@ -1,5 +1,7 @@
 ### :man_technologist: About Me :
 I am a Frontend Developer.
+- :zap: React enjoyer
+
 - :zap: I've been doing front-end development for about a year.
 
 - :zap: Learning new things.
