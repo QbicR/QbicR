@@ -2,7 +2,7 @@
 I am a Frontend Developer.
 - :zap: React enjoyer
 
-- :zap: I've been doing front-end development for about a year.
+- :zap: I've been doing front-end development for about a few years.
 
 - :zap: Learning new things.
 
