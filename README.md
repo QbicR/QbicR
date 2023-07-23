@@ -6,10 +6,6 @@ I am a Frontend Developer.
 
 - :zap: Learning new things.
 
-- :zap: Do not looking for a job.
-
-- :mailbox: Сontact with me: [![TG Badge](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/QbicR)
-
 ---
 
 <div id="header" align="center">
