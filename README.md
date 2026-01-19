@@ -17,9 +17,6 @@ I am a Frontend Developer.
     <a href="mailto:teleshev1998@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/gmail-lightgrey?style=for-the-badge&logo=gmail&logoColor=#c71610" alt="Gmail Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/dmitry-teleshev-4a1425249/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=QbicR&style=for-the-badge&color=blue" alt=""/>
 </div>
